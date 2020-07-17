@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    <
+    <div class="container-fluid">
+
+      <div class="row">
+        <div id="homeid" class="col-md-12">
+            <!-- <h1>APPLIED MACHINE LEARNIG FOR BIOINFORMATICS</h1> -->
+            <div class="row" >
+                <div  class="col-md-2" style="margin-bottom: 40px" >
+                  <!-- <img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;"> -->
+                  <img class="avatar" src="images/dk/profilepic2.jpg" style="width:200px;height:250px;">
+                  </div>
+                  <!-- col-md-offset-3 -->
+                  <div  class="col-md-7 col-md-offset-1" style="margin-bottom: 40px">
+                    <h1 style="color:black;font-family:serif;font-size:30px;color:#FF5733"><b>Dhananjay Kimothi</b></h1>
+                    <a style="color:blue", href= https://ece.iiitd.ac.in/ > Department of ECE, IIIT-Delhi </a>
+                    <br>
+                    <a style="color:blue", href= https://www.qut.edu.au/science-engineering/schools/computer-science> School of Computer Science, QUT-Australia </a>
+
+                    <br><br><br><br>
+                    <p>Email: dhananjayk@iiitd.ac.in</p>
+                    <a style="color:blue", href="https://scholar.google.com/citations?user=JQzhc-QAAAAJ&hl=en">[Google Scholar]
+                    <a style="color:blue", href="https://www.linkedin.com/in/dhananjay-kimothi-9b6b5463/" target="_blank">[Linkedin]</a> <i class="fab fa-github"></i>
+                    <a style="color:blue", href="https://github.com/DhananjayKimothi/" target="_blank">[GitHub]</a>
+                      </div>
+            </div>
+            <div class="row">
+
+              <!-- <hr style="border:10px black"> </hr> -->
+              {{content}}
+              </div>
+        </div>
+<!--
+        <div id="newsid" class="col-md-4" >
+        {% include news.html %}
+        </div> -->
+
+      </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

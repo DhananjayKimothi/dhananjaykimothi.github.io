@@ -1,0 +1,26 @@
+---
+title: "Blogs"
+layout: textlay
+excerpt: "Blogs"
+sitemap: false
+permalink: /blogs.html
+---
+# BLOGS
+
+
+<p style= "font-size:20px;color:#FF5733"><b>14th July 2020</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black">
+Alignment based techniques dominate sequence (DNA, protein) comparison in bioinformatics, but the inability of these techniques to produce good results when sequences are divergent but functionally similar, and the quadratic complexity of the algorithms, has motivated researchers to work on alternative ‘alignment-free’ approaches. One of the more common ideas in this direction is to use a bag-of- words based approach, a representation based on a vector of kmer (sub sequences) counts. Such vectors are easy to compute but are of very high dimension, sometimes even larger than the sequence itself. The other noted criticism of bag-of- word based approaches is their limited capability of incorporating contextual information, which can otherwise be very useful. A step forward in this direction is to develop approaches which map sequences in a low dimensional vector space, while keeping the biological relations intact (i.e. functionally similar sequences are mapped closer together in the vector space than others). Recent developments in representation learning research (specifically in NLP) have opened the possibility to explore similar techniques for biological sequences. Such techniques offer advantages in terms of their capability to include contextual information while computing low dimensional representations. An additional advantage of these techniques is the possibility to include prior knowledge (such as class information), ​which is sometimes not explicitly evident in sequences, for example, apparently divergent sequences may belong to the same class. Furthermore, employing such information rich representations, as an input to machine learning algorithms, improves their performance when applied to solve a given task.
+
+
+<p style= "font-size:20px;color:#FF5733"><b>14th July 2020</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black">
+Alignment based techniques dominate sequence (DNA, protein) comparison in bioinformatics, but the inability of these techniques to produce good results when sequences are divergent but functionally similar, and the quadratic complexity of the algorithms, has motivated researchers to work on alternative ‘alignment-free’ approaches. One of the more common ideas in this direction is to use a bag-of- words based approach, a representation based on a vector of kmer (sub sequences) counts. Such vectors are easy to compute but are of very high dimension, sometimes even larger than the sequence itself. The other noted criticism of bag-of- word based approaches is their limited capability of incorporating contextual information, which can otherwise be very useful. A step forward in this direction is to develop approaches which map sequences in a low dimensional vector space, while keeping the biological relations intact (i.e. functionally similar sequences are mapped closer together in the vector space than others). Recent developments in representation learning research (specifically in NLP) have opened the possibility to explore similar techniques for biological sequences. Such techniques offer advantages in terms of their capability to include contextual information while computing low dimensional representations. An additional advantage of these techniques is the possibility to include prior knowledge (such as class information), ​which is sometimes not explicitly evident in sequences, for example, apparently divergent sequences may belong to the same class. Furthermore, employing such information rich representations, as an input to machine learning algorithms, improves their performance when applied to solve a given task.
+
+
+<!-- # News -->
+
+<!-- {% for article in site.data.news %}
+<p>{{ article.date }} <br>
+<em>{{ article.headline }}</em></p>
+{% endfor %} -->
