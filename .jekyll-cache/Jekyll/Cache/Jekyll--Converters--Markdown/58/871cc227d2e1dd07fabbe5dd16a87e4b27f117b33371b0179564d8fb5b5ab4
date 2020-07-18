@@ -1,4 +1,4 @@
-I"Ø<!--
+I"Õ<!--
 # Pictures
 Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st-andrews)
 
@@ -14,19 +14,19 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <div class="row">
 
   <div class="col-sm-3 clearfix">
-    <p><img src="http://localhost:4000/images/dk/himalayan.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/dk/bribie_brisbane.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
 
   <div class="col-sm-3 clearfix">
-    <p><img src="http://localhost:4000/images/dk/qut1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/dk/brisbane_1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
 
   <div class="col-sm-3 clearfix">
-    <p><img src="http://localhost:4000/images/dk/qut2.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/dk/compre_presentation.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
 
   <div class="col-sm-3 clearfix">
-    <p><img src="http://localhost:4000/images/dk/qut3.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/dk/flying_alone.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
 
 </div>
@@ -34,11 +34,31 @@ Jump to: [Leiden](#leiden), [ETHZ](#ethz), [Cornell](#cornell), [St Andrews](#st
 <div class="row">
 
   <div class="col-sm-3 clearfix">
-    <p><img src="http://localhost:4000/images/dk/qut4.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/dk/group_pic1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
 
   <div class="col-sm-3 clearfix">
-    <p><img src="http://localhost:4000/images/dk/brisbane_1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+    <p><img src="http://localhost:4000/images/dk/group_pic2.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/dk/lab_pic1.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/dk/my_desk_at_iiitd.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/dk/qut_presentation.jpg" class="img-responsive" width="95%" style="float: left" /></p>
+  </div>
+
+  <div class="col-sm-3 clearfix">
+    <p><img src="http://localhost:4000/images/dk/view_from_qut.jpg" class="img-responsive" width="95%" style="float: left" /></p>
   </div>
 
 </div>
