@@ -1,12 +1,45 @@
-- title: pic1_description
-  image: himalayan.jpg
-- title: pic2_description
-  image: qut1.jpg
-- title: pic3_description
-  image: qut2.jpg
-- title: pic4_description
-  image: qut3.jpg
-- title: pic5_description
-  image: qut4.jpg
-- title: pic6_description
+- title: Lab group pic
+  image: bribie_brisbane.jpg
+
+- title: Lab group pic
   image: brisbane_1.jpg
+
+- title: Lab group pic
+  image: compre_presentation.jpg
+
+- title: Lab group pic
+  image: flying_alone.jpg
+
+- title: Lab group pic
+  image: group_pic1.jpg
+
+- title: pic2_description
+  image: group_pic2.jpg
+
+- title: Lab group pic
+  image: lab_pic1.jpg
+
+- title: Lab group pic
+  image: my_desk_at_iiitd.jpg
+
+# - title: Lab group pic
+#   image: nothing_beats_it.jpg
+
+- title: Lab group pic
+  image: qut_presentation.jpg
+
+- title: Lab group pic
+  image: view_from_qut.jpg
+
+#
+# - title: pic3_description
+#   image: compre_presentation.jpg
+#
+# - title: pic4_description
+#   image: flying_alone.jpg
+#
+# - title: pic5_description
+#   image: qut_presen.jpg
+#
+# - title: pic6_description
+#   image: .jpg
