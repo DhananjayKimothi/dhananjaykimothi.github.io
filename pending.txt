@@ -1,6 +1,2 @@
-* Complete the profile (use Linkedin for reference)
-* Upload on Git
 * fix the icon on header
 * uneven size of pics
-* remove everything except what is required
-* check how to add your own stuff in website

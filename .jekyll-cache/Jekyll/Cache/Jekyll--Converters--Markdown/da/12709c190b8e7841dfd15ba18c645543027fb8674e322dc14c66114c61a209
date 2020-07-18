@@ -1,0 +1,60 @@
+I"<p style="font-size:30px;color:#FF5733"><b>About Me</b></p>
+<!-- <five-star-line> </five-star-line> -->
+<!-- <p style="line-height:2%">
+About me is unknown
+<!-- </p> -->
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
+
+<p>I am a final year Ph.D. student enrolled under a collaborative degree between <a href="https://www.iiitd.ac.in/">IIIT-Delhi</a> IIIT-Delhi
+and <a href="https://www.qut.edu.au/">QUT-Australia</a>.
+I am advised by <a href="https://www.iiitd.ac.in/praveshb/">Dr. Pavesh Biyani</a> from IIIT-Delhi and <a href="https://staff.qut.edu.au/staff/j.hogan/">Dr. James M Hogan</a> from QUT-Australia. My Ph.D. is supported by <a href="https://phd.dic.gov.in/">Visvesvarya Ph.D. Fellowship</a> and <a href="https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-postgraduate-research-award-qutpra-international">QUTPRA-Australia</a>. I have spent most of the time at IIT Delhi. Currently I am located at QUT, Brisbane.</p>
+
+<!-- <i>I work in the domain of Applied Machine Learning in Bioinformatics</i>. -->
+
+<p style="font-size:30px;color:#FF5733"><b>Research Interest</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
+
+<p>My primary interest lies in developing faster and efficient Representation learning based computational tools for finding solutions for core problems in bioinformatics domain. In my PhD research  I have focused on developing the Representation Learning based solution for <em>Homologous Sequence retrieval problem </em> that are faster than the established alignment based approaches. Recently, I focus on following research topics:</p>
+<ul>
+<li>Language Modelling for biological sequences</li>
+<li>Learning label (sequence annotations) representations </li>
+<li>Paired input prediction problems, e.g, protein-protein interaction</li>
+</ul>
+
+<p style="font-size:30px;color:#FF5733"><b>Work Experience</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
+
+<p> Tutor (2014-2020)</p>
+<ul>
+<li>Technical Communication Skills  (UG), IIIT-Delhi  Monsoon, 2019 </li>
+<li>Python-IFB104 course (UG), QUT-Australia  Aug-Nov, 2017 </li>
+<li> Data Science in Genomics (UG,PG), IIIT-Delhi Winter 2016 </li>
+<li> Introduction to Mathematical Biology (UG,PG), IIIT-Delhi Monsoon 2015  </li>
+<li> Probability and Statistics, IIIT-Delhi Winter 2015 </li>
+<li> Research Methods, IIIT-Delhi  Monsoon 2014 </li>
+</ul>
+
+<p> Lecturer, ADGITM, Department of ECE, Delhi, India (2013-2014)</p>
+<p> G.B.Pant Engineering College, Department of ECE, Delhi, India (2010-2011)</p>
+
+<p style="font-size:30px;color:#FF5733"><b>Awards</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
+
+<ul>
+<li>  QUT Postgraduate Research Award (QUTPRA) 2017-2021 </li>
+<!-- <a style="color:blue", href= https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-postgraduate-research-award-qutpra-international> </a> -->
+<li> QUT-HDR fellowship </li>
+<li> Vishwesarya PhD Fellowship</li>
+<!-- <a style="color:blue", href = https://phd.dic.gov.in/> -->
+</ul>
+
+<figure class="fourth">
+  <p><img src="http://localhost:4000/images/dk/iiitd.jpg" style="width: 210px" /></p>
+</figure>
+
+<p style="font-size:30px;color:#FF5733"><b>Active Collaborations</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
+
+<p><a href="https://www.linkedin.com/in/ambuj-mehrish-159a0417b/">Dr. Ambuj Mehrish</a></p>
+<p> Topic: Learning label representation </p>
+:ET

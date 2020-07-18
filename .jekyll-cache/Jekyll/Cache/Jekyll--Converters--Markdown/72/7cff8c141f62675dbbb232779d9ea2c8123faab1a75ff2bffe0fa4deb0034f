@@ -1,4 +1,4 @@
-I"Þ<p style="font-size:30px;color:#FF5733"><b>About Me</b></p>
+I"å<p style="font-size:30px;color:#FF5733"><b>About Me</b></p>
 <!-- <five-star-line> </five-star-line> -->
 <!-- <p style="line-height:2%">
 About me is unknown
@@ -51,4 +51,9 @@ I am advised by <a href="https://www.iiitd.ac.in/praveshb/">Dr. Pavesh Biyani</a
 <figure class="fourth">
   <p><img src="http://localhost:4000/images/dk/iiitd.jpg" style="width: 210px" /></p>
 </figure>
+
+<p style="font-size:30px;color:#FF5733"><b>Active Collaborations</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
+
+<p><a href="https://www.linkedin.com/in/ambuj-mehrish-159a0417b/">Dr. Ambuj Mehrish</a></p>
 :ET
