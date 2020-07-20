@@ -11,7 +11,7 @@
 
 - title: "Learning supervised embeddings for large scale sequence comparisons"
   image: suvec.png
-  description: We develop machine learning supervised approach for protein sequence retrieval and for protein classification in large scacle, providing significant faster query processing time than commonly used alignment-based algorithms.
+  description: We developed machine learning supervised approach for protein sequence retrieval and for protein classification in large scale.  Our proposed approach provides significantly faster query processing time than commonly used alignment-based algorithms.
   authors: Kimothi, Dhananjay and Biyani, Pravesh and Hogan, James M and Soni, Akshay and Kelly, Wayne
   link:
     url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216636

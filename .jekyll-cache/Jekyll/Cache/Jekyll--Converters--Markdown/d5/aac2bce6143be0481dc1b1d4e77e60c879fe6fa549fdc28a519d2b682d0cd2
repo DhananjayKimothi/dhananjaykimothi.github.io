@@ -1,0 +1,41 @@
+I"Œ	<h1 id="publications">Publications</h1>
+
+<!-- ## Group highlights -->
+
+<!-- (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
+
+<!-- (For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012)) -->
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Learning supervised embeddings for large scale sequence comparisons</pubtit>
+      <p><img src="http://localhost:4000/images/pubpic/suvec.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We developed machine learning supervised approach for protein sequence retrieval and for protein classification in large scale.  Our proposed approach provides significantly faster query processing time than commonly used alignment-based algorithms.</p>
+      <p><em>Kimothi, Dhananjay and Biyani, Pravesh and Hogan, James M and Soni, Akshay and Kelly, Wayne</em></p>
+      <p><strong><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216636">journal.pone.0216636</a></strong></p>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p> Â  </p>
+
+<!-- ## Full List -->
+
+<p>Distributed representations for biological sequence analysis <br />
+  <em>Kimothi, Dhananjay and Soni, Akshay and Biyani, Pravesh and Hogan, James M </em><br /><a href="https://arxiv.org/abs/1608.05949">arXiv:1608.05949</a></p>
+
+<p>Learning supervised embeddings for large scale sequence comparisons <br />
+  <em>Kimothi, Dhananjay and Biyani, Pravesh and Hogan, James M and Soni, Akshay and Kelly, Wayne </em><br /><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0216636">journal.pone.0216636</a></p>
+
+<p>Metric learning on biological sequence embeddings <br />
+  <em>Kimothi, Dhananjay and Shukla, Ankita and Biyani, Pravesh and Anand, Saket and Hogan, James M </em><br /><a href="https://ieeexplore.ieee.org/document/8227769">ieee:8227769</a></p>
+
+<p>Sequence representations and their utility for predicting protein-protein interactions <br />
+  <em>Kimothi, Dhananjay and Biyani, Pravesh and Hogan, James M </em><br /><a href="https://doi.org/10.1101/2019.12.31.890699">biorXiv:2019.12.31.890699</a></p>
+
+:ET

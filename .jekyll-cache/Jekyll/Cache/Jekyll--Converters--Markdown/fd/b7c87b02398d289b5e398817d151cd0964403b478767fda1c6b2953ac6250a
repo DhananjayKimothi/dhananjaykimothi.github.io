@@ -1,4 +1,4 @@
-I"<p style="font-size:30px;color:#FF5733"><b>About Me</b></p>
+I"ø<p style="font-size:30px;color:#FF5733"><b>About Me</b></p>
 <!-- <five-star-line> </five-star-line> -->
 <!-- <p style="line-height:2%">
 About me is unknown
@@ -7,14 +7,15 @@ About me is unknown
 
 <p>I am a final year Ph.D. student enrolled under a collaborative degree between <a href="https://www.iiitd.ac.in/">IIIT-Delhi</a> IIIT-Delhi
 and <a href="https://www.qut.edu.au/">QUT-Australia</a>.
-I am advised by <a href="https://www.iiitd.ac.in/praveshb/">Dr. Pavesh Biyani</a> from IIIT-Delhi and <a href="https://staff.qut.edu.au/staff/j.hogan/">Dr. James M Hogan</a> from QUT-Australia. My Ph.D. is supported by <a href="https://phd.dic.gov.in/">Visvesvarya Ph.D. Fellowship</a> and <a href="https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-postgraduate-research-award-qutpra-international">QUTPRA-Australia</a>. I have spent most of the time at IIT Delhi. Currently I am located at QUT, Brisbane.</p>
+I am advised by <a href="https://www.iiitd.ac.in/praveshb/">Dr. Pavesh Biyani</a> from IIIT-Delhi and <a href="https://staff.qut.edu.au/staff/j.hogan/">Dr. James M Hogan</a> from QUT-Australia. My Ph.D. is supported by <a href="https://phd.dic.gov.in/">Visvesvarya Ph.D. Fellowship</a> and <a href="https://www.qut.edu.au/study/fees-and-scholarships/scholarships/qut-postgraduate-research-award-qutpra-international">QUTPRA-Australia</a>. I have spent most of the time in PhD at IIIT Delhi however QUT, Brisbane is my current work location.</p>
 
 <!-- <i>I work in the domain of Applied Machine Learning in Bioinformatics</i>. -->
 
 <p style="font-size:30px;color:#FF5733"><b>Research Interest</b></p>
 <hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
 
-<p>My primary interest lies in developing faster and efficient Representation learning based computational tools for finding solutions for core problems in bioinformatics domain. In my PhD research  I have focused on developing the Representation Learning based solution for <em>Homologous Sequence retrieval problem </em> that are faster than the established alignment based approaches. Recently, I focus on following research topics:</p>
+<p>My primary interest lies in developing faster and efficient Representation learning based computational tools that are capable of  finding solutions to the core problems in bioinformatics domain. In my PhD research I have focused on developing the Representation Learning based solution for <em>Homologous Sequence retrieval problem </em> that is faster than the established alignment based approaches. My recent research interests include:
+</p>
 <ul>
 <li>Language Modelling for biological sequences</li>
 <li>Learning label (sequence annotations) representations </li>
@@ -48,13 +49,7 @@ I am advised by <a href="https://www.iiitd.ac.in/praveshb/">Dr. Pavesh Biyani</a
 <!-- <a style="color:blue", href = https://phd.dic.gov.in/> -->
 </ul>
 
-<!-- <figure class="fourth">
-  <img src="http://localhost:4000/images/dk/iiitd.jpg" style="width: 210px">
-</figure> -->
-
-<p style="font-size:30px;color:#FF5733"><b>Active Collaborations</b></p>
-<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black" />
-
-<p><a href="https://www.linkedin.com/in/ambuj-mehrish-159a0417b/">Dr. Ambuj Mehrish</a></p>
-<p> Topic: Learning label representation </p>
+<figure class="fourth">
+  <p><img src="http://localhost:4000/images/dk/iiitd.jpg" style="width: 210px" /></p>
+</figure>
 :ET
