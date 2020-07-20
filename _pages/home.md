@@ -57,6 +57,12 @@ I am advised by [Dr. Pavesh Biyani](https://www.iiitd.ac.in/praveshb/) from IIIT
 <!-- <a style="color:blue", href = https://phd.dic.gov.in/> -->
 </ul>
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/dk/iiitd.jpg" style="width: 210px">
-</figure>
+</figure> -->
+
+<p style= "font-size:30px;color:#FF5733"><b>Active Collaborations</b></p>
+<hr style="margin-top:-0.5em; height:2px;border-width:0;color:Yellow;background-color:black">
+
+[Dr. Ambuj Mehrish](https://www.linkedin.com/in/ambuj-mehrish-159a0417b/)
+<p> Topic: Learning label representation </p>
